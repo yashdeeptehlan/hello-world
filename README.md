@@ -1,2 +1,2 @@
 # hello-world
-starting out with github.
+My python learning here.
